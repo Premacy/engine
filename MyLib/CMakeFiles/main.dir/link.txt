@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/main.dir/main.cpp.o CMakeFiles/main.dir/Window.cpp.o CMakeFiles/main.dir/Shaders/Shaders.cpp.o CMakeFiles/main.dir/Log/Logger.cpp.o CMakeFiles/main.dir/math/Vec2.cpp.o CMakeFiles/main.dir/glfw/deps/glad_gl.c.o  -o main  glfw/src/libglfw3.a -lrt -lm -ldl -lX11 -lpthread 
